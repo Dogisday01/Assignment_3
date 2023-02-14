@@ -4,24 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d73f25-8c9f-422c-a958-6b3ff26a93a1" name="Changes" comment="test attempt 3">
-      <change afterPath="$PROJECT_DIR$/src/Repositories/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/resources/test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resources/test.sql" afterDir="false" />
+    <list default="true" id="ff241674-2d43-40ca-9c97-0d8551d86b63" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Restraunt_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proj1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Proj1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repositories/UserRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,8 +25,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LMcH1ZaI8qVYW2XZiqlB1JGkrP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2Liel51j7kkkCqD8ooqW9HXHOdF" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -41,130 +37,36 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dogisday/IdeaProjects/Proj1/.idea/lib/mysql-connector-j-8.0.32.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
-    ],
-    "RunConfigurationTargetLRU": [
-      "1c5a16b5-1456-41dc-ab3c-15254460f2ee"
-    ]
+    "last_opened_file_path": "D:/Java/Java projects/Assignment_3",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="test.sql (1)" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <script-file value="$PROJECT_DIR$/.idea/resources/test.sql" />
-      <script-mode>FILE</script-mode>
-      <data-source id="1c5a16b5-1456-41dc-ab3c-15254460f2ee" namespace="schema/&quot;db_user_table&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
-      <script-file value="$PROJECT_DIR$/.idea/resources/test.sql" />
-      <script-mode>FILE</script-mode>
-      <data-source id="1c5a16b5-1456-41dc-ab3c-15254460f2ee" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Database Script.test.sql (1)" />
-        <item itemvalue="Database Script.test.sql" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Java projects\Restraunt_3\src\Repositories" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50d73f25-8c9f-422c-a958-6b3ff26a93a1" name="Changes" comment="" />
-      <created>1675684301223</created>
+      <changelist id="ff241674-2d43-40ca-9c97-0d8551d86b63" name="Changes" comment="" />
+      <created>1676358477928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675684301223</updated>
-      <workItem from="1675684302322" duration="652000" />
-      <workItem from="1675684971671" duration="4019000" />
-      <workItem from="1675781118469" duration="4910000" />
-      <workItem from="1675834654132" duration="6866000" />
+      <updated>1676358477928</updated>
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1675685052503</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675685052503</updated>
-    </task>
-    <task id="LOCAL-00002" summary="test">
-      <created>1675685089900</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1675685089900</updated>
-    </task>
-    <task id="LOCAL-00003" summary="test">
-      <created>1675685266027</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675685266027</updated>
-    </task>
-    <task id="LOCAL-00004" summary="test attempt 2">
-      <created>1675685334830</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1675685334830</updated>
-    </task>
-    <task id="LOCAL-00005" summary="test attempt 3">
-      <created>1675836240253</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1675836240253</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="test attempt 2" />
-    <MESSAGE value="test attempt 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test attempt 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
